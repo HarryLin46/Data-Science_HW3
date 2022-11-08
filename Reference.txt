@@ -1,0 +1,4 @@
+p2:
+https://journals.sagepub.com/doi/full/10.1155/2015/806954#fig2-2015-806954
+
+https://niapy.org/en/stable/tutorials/feature_selection.html
