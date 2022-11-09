@@ -2,3 +2,6 @@ p2:
 https://journals.sagepub.com/doi/full/10.1155/2015/806954#fig2-2015-806954
 
 https://niapy.org/en/stable/tutorials/feature_selection.html
+
+p3:
+https://adaptable-haze-butterfly-551.medium.com/arima%E6%99%82%E9%96%93%E5%BA%8F%E5%88%97%E6%A8%A1%E5%9E%8Bpython%E6%87%89%E7%94%A8-%E9%8A%85%E5%83%B9%E6%A0%BC%E9%A0%90%E6%B8%AC-%E4%B8%80-4f91693e3ec6
